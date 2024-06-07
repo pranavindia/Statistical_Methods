@@ -1,4 +1,4 @@
-#Summary#
+**Summary**
 
 
 This Jupyter Notebook is part of the Applied Statistics course and contains the first lab assignment. The goal of this lab is to explore and analyze the provided dataset using various statistical methods and techniques. Below is an outline of the notebook's contents and the steps involved in the analysis.
